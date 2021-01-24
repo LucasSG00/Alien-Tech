@@ -11,5 +11,8 @@ Facebook: https://www.facebook.com/events/799309650928351
 ## Screenshots
 <img src="https://github.com/LucasSG00/Alien-Tech/blob/main/Alien/Alien.gif" width="100%" height="100%" />
 <img src="https://github.com/LucasSG00/Alien-Tech/blob/main/Fotos/Alien%20Desktop%20Info.png" />
-<img src="https://github.com/LucasSG00/Alien-Tech/blob/main/Fotos/Alien%20Phone%20Info.png" width="400" />
-<img src="https://github.com/LucasSG00/Alien-Tech/blob/main/Fotos/logo.png" width="400" />
+
+<p align="center">
+  <img src="https://github.com/LucasSG00/Alien-Tech/blob/main/Fotos/Alien%20Phone%20Info.png" width="300" />
+  <img src="https://github.com/LucasSG00/Alien-Tech/blob/main/Fotos/logo.png" width="400" />
+</p>
