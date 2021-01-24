@@ -6,7 +6,7 @@ No projeto foi utilizado o Photoshop para as edições das imagens e, o Sony Veg
 
 ## Redes Sociais - Alien Tech
 Facebook: https://www.facebook.com/events/799309650928351
-Instagram: https://www.instagram.com/alientech.sp/ ou @alientech.sp
+<br>Instagram: https://www.instagram.com/alientech.sp/ ou @alientech.sp
 
 ## Screenshots
 <img src="https://github.com/LucasSG00/Alien-Tech/blob/main/Alien/Alien.gif" width="100%" height="100%" />
