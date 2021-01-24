@@ -16,3 +16,18 @@ Facebook: https://www.facebook.com/events/799309650928351
   <img src="https://github.com/LucasSG00/Alien-Tech/blob/main/Fotos/Alien%20Phone%20Info.png" width="300" />
   <img src="https://github.com/LucasSG00/Alien-Tech/blob/main/Fotos/logo.png" width="400" />
 </p>
+
+## Protótipos
+
+<p align="center">
+  Alguns protótipos de logo, fonte e cores elaborado durante o processo até a escolha final para o produto.
+</p>
+
+<p align="center">
+  <img src="https://github.com/LucasSG00/Alien-Tech/blob/main/Fotos/Alien%20Prototipo%201.jpeg" width="400" />
+  <img src="https://github.com/LucasSG00/Alien-Tech/blob/main/Fotos/Alien%20Prototipo%202.jpeg" width="400" />
+  <img src="https://github.com/LucasSG00/Alien-Tech/blob/main/Fotos/Alien%20Prototipo%203.jpeg" width="400" />
+  <img src="https://github.com/LucasSG00/Alien-Tech/blob/main/Fotos/Alien%20Prototipo%204.jpeg" width="400" />
+  <img src="https://github.com/LucasSG00/Alien-Tech/blob/main/Fotos/Alien%20Abduzindo.png" width="400" />
+  <img src="https://github.com/LucasSG00/Alien-Tech/blob/main/Fotos/Abdu%C3%A7%C3%A3o%20Cidade.jpeg" width="400" />
+ </p>
